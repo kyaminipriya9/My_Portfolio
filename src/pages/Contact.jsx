@@ -39,7 +39,7 @@ export default function Contact() {
                     </a>
 
                     <a
-                        href="https://www.linkedin.com/in/yamini-priya-k-404b76259"
+                        href="https://www.linkedin.com/in/yamini-priya-k-404b76259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                         target="_blank"
                         rel="noreferrer"
                         className="flex-1 rounded-2xl border border-white/10 bg-white/5 p-5 flex items-center gap-3 hover:shadow-purple-500/30"
